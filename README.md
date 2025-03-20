@@ -1,5 +1,6 @@
 # 章鱼哥的自我介绍：
 ！[章鱼哥](https://www.bing.com/images/search?q=%E7%AB%A0%E9%B1%BC%E5%93%A5%E5%9B%BE%E7%89%87&FORM=IQFRBA&id=8478655E1FF6EADB895FF70DD84FC644AF246C03 =200x200)
+
 **大家好，我是章鱼哥，**
 *我的身份是学生*
 
@@ -10,7 +11,8 @@
 * 爱吃东西
 ## 我的好朋友
 1. 海绵宝宝
-2. 派大星  
+2. 派大星
+
 ~~3. 痞老板~~
 ### 重要坐标
 <https://blog.csdn.net/qq_40818172/article/details/126260661>
