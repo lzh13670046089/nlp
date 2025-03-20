@@ -15,7 +15,7 @@
 
 ~~3. 痞老板~~
 ### 重要坐标
-<https://blog.csdn.net/qq_40818172/article/details/126260661>
+<https://github.com/lzh13670046089/nlp>
 ### 日常作息表
 |早上|中午|晚上|
 |:---:|:---:|:---:|
