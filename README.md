@@ -1,5 +1,5 @@
 # 章鱼哥的自我介绍：
-！[章鱼哥](https://www.bing.com/images/search?q=%E7%AB%A0%E9%B1%BC%E5%93%A5%E5%9B%BE%E7%89%87&FORM=IQFRBA&id=8478655E1FF6EADB895FF70DD84FC644AF246C03 =200x200)
+！[章鱼哥](https://github.com/lzh13670046089/nlp/blob/master/picture/%E7%AB%A0%E9%B1%BC%E5%93%A5.jpg =200x200)
 
 **大家好，我是章鱼哥，**
 *我的身份是学生*
@@ -36,4 +36,4 @@ print(matrix)
 ```
 **其中执行`print(matrix)`可输出结果**
 **我最喜欢的环境管理工具是conda**
-！[](/home/lin/图片/截图/截图 2025-03-06 16-35-59.png =800x800)
+！[](https://github.com/lzh13670046089/nlp/blob/master/picture/%E6%88%AA%E5%9B%BE%202025-03-06%2016-35-59.png =800x800)
